@@ -1,4 +1,4 @@
-# weather
+# Weather
 A website where you can enter the place where you need know the current weather location.
 
 
