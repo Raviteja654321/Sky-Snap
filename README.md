@@ -1,6 +1,8 @@
 # weather
 A website which shows the weather at the location user requests.
 
+![image](https://user-images.githubusercontent.com/94986564/209655326-8e836743-1f22-426b-bde4-cbbdacb3606e.png)
+
 
 ![image](https://user-images.githubusercontent.com/94986564/209655115-57633eaf-0c90-4541-9749-f790ba2c36df.png)
 
