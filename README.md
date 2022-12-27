@@ -1,5 +1,6 @@
 # weather
-A website which shows the weather at the location user requests.
+A website where you can enter the place where you need know the current weather location.
+
 
 ![image](https://user-images.githubusercontent.com/94986564/209655326-8e836743-1f22-426b-bde4-cbbdacb3606e.png)
 
