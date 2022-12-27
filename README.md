@@ -1,6 +1,21 @@
 # weather
 A website which shows the weather at the location user requests.
 
+
+![image](https://user-images.githubusercontent.com/94986564/209655115-57633eaf-0c90-4541-9749-f790ba2c36df.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/94986564/209654803-a96c0b83-8512-4cbe-a701-2fcc0e8742f0.png)
+
+
+![image](https://user-images.githubusercontent.com/94986564/209655026-f0eb3a68-4e26-4d24-ad2f-bb1d1cb4bfed.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94986564/209655001-5c68d0e2-8619-468f-bdc1-fa3f50e33fe4.png)
+
 Packages to install 
 ---
 
