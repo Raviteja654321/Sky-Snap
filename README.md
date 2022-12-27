@@ -1,23 +1,26 @@
 # Weather
 A website which shows the weather at the location user requests.
 
-
+General User Interface
+---
 ![image](https://user-images.githubusercontent.com/94986564/209655326-8e836743-1f22-426b-bde4-cbbdacb3606e.png)
 
+* If user wants the Current Weather at `London` then user can Enter the location manually
 
 ![image](https://user-images.githubusercontent.com/94986564/209655115-57633eaf-0c90-4541-9749-f790ba2c36df.png)
 
+* When they Enter `Go` user will be redirected to another page where the current clouds condition (type of cloud emoji included) and temperature will be shown as below
 
+![image](https://user-images.githubusercontent.com/94986564/209669063-ca1bcb91-168b-4f8e-8488-4ca7373928f2.png)
 
-
-![image](https://user-images.githubusercontent.com/94986564/209654803-a96c0b83-8512-4cbe-a701-2fcc0e8742f0.png)
-
+* The similar process is carried out for `Los Angeles`
 
 ![image](https://user-images.githubusercontent.com/94986564/209655026-f0eb3a68-4e26-4d24-ad2f-bb1d1cb4bfed.png)
 
+* Output
 
+![image](https://user-images.githubusercontent.com/94986564/209669156-7eb3d286-f2e2-4e3f-9b0a-e9ba86e9b795.png)
 
-![image](https://user-images.githubusercontent.com/94986564/209655001-5c68d0e2-8619-468f-bdc1-fa3f50e33fe4.png)
 
 Packages to install 
 ---
