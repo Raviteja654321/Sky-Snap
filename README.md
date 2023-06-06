@@ -1,8 +1,12 @@
 # Weather
 A website which shows the weather at the location user requests.
 
+## Video Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YD59aS5zJYY/0.jpg)](https://www.youtube.com/watch?v=YD59aS5zJYY)
+
 General User Interface
 ---
+
 ![image](https://user-images.githubusercontent.com/94986564/209655326-8e836743-1f22-426b-bde4-cbbdacb3606e.png)
 
 * If user wants the Current Weather at `London` then user can Enter the location manually
