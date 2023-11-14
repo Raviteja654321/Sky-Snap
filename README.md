@@ -15,7 +15,8 @@ General User Interface
 
 * When they Enter `Go` user will be redirected to another page where the current clouds condition (type of cloud emoji included) and temperature will be shown as below
 
-![image](https://user-images.githubusercontent.com/94986564/209669063-ca1bcb91-168b-4f8e-8488-4ca7373928f2.png)
+![image](https://github.com/Raviteja654321/Weather/assets/94986564/42a7596c-486f-4002-ad79-d6a6f8a05e8e)
+
 
 * The similar process is carried out for `Los Angeles`
 
@@ -23,7 +24,7 @@ General User Interface
 
 * Output
 
-![image](https://user-images.githubusercontent.com/94986564/209669156-7eb3d286-f2e2-4e3f-9b0a-e9ba86e9b795.png)
+![image](https://github.com/Raviteja654321/Weather/assets/94986564/63502547-a720-45b0-bae6-355d2cbd756d)
 
 
 Packages to install 
