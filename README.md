@@ -18,7 +18,7 @@ General User Interface
 ![image](https://github.com/Raviteja654321/Weather/assets/94986564/42a7596c-486f-4002-ad79-d6a6f8a05e8e)
 
 
-* The similar process is carried out for `Los Angeles`
+* The similar process is carried out for `Los Angeles` 
 
 ![image](https://user-images.githubusercontent.com/94986564/209655026-f0eb3a68-4e26-4d24-ad2f-bb1d1cb4bfed.png)
 
